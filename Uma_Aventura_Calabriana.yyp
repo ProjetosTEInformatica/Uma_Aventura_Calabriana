@@ -36,6 +36,11 @@
   },
   "name":"Uma_Aventura_Calabriana",
   "resources":[
+    {"id":{"name":"oColisor1","path":"objects/oColisor1/oColisor1.yy",},},
+    {"id":{"name":"oColisor2","path":"objects/oColisor2/oColisor2.yy",},},
+    {"id":{"name":"oColisor3","path":"objects/oColisor3/oColisor3.yy",},},
+    {"id":{"name":"oColisor4","path":"objects/oColisor4/oColisor4.yy",},},
+    {"id":{"name":"oColisor5","path":"objects/oColisor5/oColisor5.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sArvore1","path":"sprites/sArvore1/sArvore1.yy",},},
