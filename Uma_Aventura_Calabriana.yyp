@@ -38,6 +38,11 @@
   "resources":[
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sArvore1","path":"sprites/sArvore1/sArvore1.yy",},},
+    {"id":{"name":"sArvore2","path":"sprites/sArvore2/sArvore2.yy",},},
+    {"id":{"name":"sArvore3","path":"sprites/sArvore3/sArvore3.yy",},},
+    {"id":{"name":"sArvore4","path":"sprites/sArvore4/sArvore4.yy",},},
+    {"id":{"name":"sArvore5","path":"sprites/sArvore5/sArvore5.yy",},},
     {"id":{"name":"sGrama","path":"sprites/sGrama/sGrama.yy",},},
     {"id":{"name":"sPlayerMovendoCostas","path":"sprites/sPlayerMovendoCostas/sPlayerMovendoCostas.yy",},},
     {"id":{"name":"sPlayerMovendoDireita","path":"sprites/sPlayerMovendoDireita/sPlayerMovendoDireita.yy",},},
