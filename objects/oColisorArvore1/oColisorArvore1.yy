@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oPlayer",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oColisorArvore1",
+  "eventList":[],
   "managed":true,
-  "name":"oPlayer",
+  "name":"oColisorArvore1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sPlayerParadoFrente",
-    "path":"sprites/sPlayerParadoFrente/sPlayerParadoFrente.yy",
+    "name":"sArvore1",
+    "path":"sprites/sArvore1/sArvore1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
