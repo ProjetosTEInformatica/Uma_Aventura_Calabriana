@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"oCasa1",
+  "%Name":"oConstrucaoPai",
   "eventList":[],
   "managed":true,
-  "name":"oCasa1",
+  "name":"oConstrucaoPai",
   "overriddenProperties":[],
   "parent":{
-    "name":"Static",
-    "path":"folders/Objetos/Buildings/Static.yy",
+    "name":"Buildings",
+    "path":"folders/Objetos/Buildings.yy",
   },
-  "parentObjectId":{
-    "name":"oConstrucaoPai",
-    "path":"objects/oConstrucaoPai/oConstrucaoPai.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sCasa1",
-    "path":"sprites/sCasa1/sCasa1.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

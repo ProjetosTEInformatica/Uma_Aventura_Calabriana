@@ -68,6 +68,7 @@
     {"id":{"name":"oColisorArvore3","path":"objects/oColisorArvore3/oColisorArvore3.yy",},},
     {"id":{"name":"oColisorArvore4","path":"objects/oColisorArvore4/oColisorArvore4.yy",},},
     {"id":{"name":"oColisorArvore5","path":"objects/oColisorArvore5/oColisorArvore5.yy",},},
+    {"id":{"name":"oConstrucaoPai","path":"objects/oConstrucaoPai/oConstrucaoPai.yy",},},
     {"id":{"name":"oGalpao","path":"objects/oGalpao/oGalpao.yy",},},
     {"id":{"name":"oPlayerAugustoMeneghini","path":"objects/oPlayerAugustoMeneghini/oPlayerAugustoMeneghini.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

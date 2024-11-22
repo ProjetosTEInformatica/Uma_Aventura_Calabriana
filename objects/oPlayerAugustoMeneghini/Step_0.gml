@@ -8,9 +8,25 @@ var _cima = keyboard_check(ord("W"));
 velh = (_dir - _esq) * vel;
 velv = (_baixo - _cima) * vel;
 
-// Atualizando a posição do personagem
-x += velh;
-y += velv;
+// Códigos para colisão do personagem
+
+repeat(abs(velh)) {
+    // Colisão horizontal com qualquer objeto do grupo
+    if(!place_meeting(x + sign(velh), y, oConstrucaoPai)) {
+        x += sign(velh);
+    } else {
+        velh = 0;
+    }
+}
+
+repeat(abs(velv)) {
+    // Colisão vertical com qualquer objeto do grupo
+    if(!place_meeting(x, y + sign(velv), oConstrucaoPai)) {
+        y += sign(velv);
+    } else {
+        velv = 0;
+    }
+}
 
 // Verifica se o personagem está em movimento
 if(velh != 0 || velv != 0) {

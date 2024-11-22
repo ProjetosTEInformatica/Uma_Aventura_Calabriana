@@ -9,7 +9,10 @@
     "name":"Static",
     "path":"folders/Objetos/Buildings/Static.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oConstrucaoPai",
+    "path":"objects/oConstrucaoPai/oConstrucaoPai.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
