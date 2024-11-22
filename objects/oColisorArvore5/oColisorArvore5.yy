@@ -6,8 +6,8 @@
   "name":"oColisorArvore5",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"TreeObstacle",
+    "path":"folders/Objetos/Obstacles/TreeObstacle.yy",
   },
   "parentObjectId":null,
   "persistent":false,

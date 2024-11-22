@@ -30,7 +30,7 @@
   "origin":0,
   "parent":{
     "name":"Movendo",
-    "path":"folders/Sprites/Characters/Players/Augusto Meneghini/Movendo.yy",
+    "path":"folders/Sprites/Characters/Players/AugustoMeneghini/Movendo.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

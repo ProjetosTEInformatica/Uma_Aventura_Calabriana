@@ -9,8 +9,8 @@
   "name":"oPlayerAugustoMeneghini",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"AugustoMeneguini",
+    "path":"folders/Objetos/Players/AugustoMeneguini.yy",
   },
   "parentObjectId":null,
   "persistent":false,

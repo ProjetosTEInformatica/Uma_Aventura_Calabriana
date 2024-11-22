@@ -29,7 +29,7 @@
   "origin":0,
   "parent":{
     "name":"Parado",
-    "path":"folders/Sprites/Characters/Players/Augusto Meneghini/Parado.yy",
+    "path":"folders/Sprites/Characters/Players/AugustoMeneghini/Parado.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
