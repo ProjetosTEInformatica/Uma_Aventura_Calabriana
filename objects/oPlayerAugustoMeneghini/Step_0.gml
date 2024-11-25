@@ -12,7 +12,7 @@ velv = (_baixo - _cima) * vel;
 
 repeat(abs(velh)) {
     // Colisão horizontal com qualquer objeto do grupo
-    if(!place_meeting(x + sign(velh), y, oConstrucaoPai)) {
+    if(!place_meeting(x + sign(velh), y, oColisorPai)) {
         x += sign(velh);
     } else {
         velh = 0;
@@ -21,7 +21,7 @@ repeat(abs(velh)) {
 
 repeat(abs(velv)) {
     // Colisão vertical com qualquer objeto do grupo
-    if(!place_meeting(x, y + sign(velv), oConstrucaoPai)) {
+    if(!place_meeting(x, y + sign(velv), oColisorPai)) {
         y += sign(velv);
     } else {
         velv = 0;

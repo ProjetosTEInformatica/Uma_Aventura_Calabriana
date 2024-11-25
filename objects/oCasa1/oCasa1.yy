@@ -10,8 +10,8 @@
     "path":"folders/Objetos/Buildings/Static.yy",
   },
   "parentObjectId":{
-    "name":"oConstrucaoPai",
-    "path":"objects/oConstrucaoPai/oConstrucaoPai.yy",
+    "name":"oColisorPai",
+    "path":"objects/oColisorPai/oColisorPai.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

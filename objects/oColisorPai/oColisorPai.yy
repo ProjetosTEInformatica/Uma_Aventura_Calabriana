@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oConstrucaoPai",
+  "%Name":"oColisorPai",
   "eventList":[],
   "managed":true,
-  "name":"oConstrucaoPai",
+  "name":"oColisorPai",
   "overriddenProperties":[],
   "parent":{
-    "name":"Buildings",
-    "path":"folders/Objetos/Buildings.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -9,7 +9,10 @@
     "name":"TreeObstacle",
     "path":"folders/Objetos/Obstacles/TreeObstacle.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oColisorPai",
+    "path":"objects/oColisorPai/oColisorPai.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
