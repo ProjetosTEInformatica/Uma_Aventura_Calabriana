@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"sVillainParadoEsquerdasVillainParadoEsquerda",
+  "%Name":"sVillainParadoEsquerda",
   "bboxMode":0,
   "bbox_bottom":62,
   "bbox_left":14,
@@ -22,7 +22,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"eaa73801-44d2-46ce-9d1c-02f4cfa628d6","blendMode":0,"displayName":"default","isLocked":false,"name":"eaa73801-44d2-46ce-9d1c-02f4cfa628d6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"sVillainParadoEsquerdasVillainParadoEsquerda",
+  "name":"sVillainParadoEsquerda",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -34,7 +34,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"sVillainParadoEsquerdasVillainParadoEsquerda",
+    "%Name":"sVillainParadoEsquerda",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -58,7 +58,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"sVillainParadoEsquerdasVillainParadoEsquerda",
+    "name":"sVillainParadoEsquerda",
     "playback":1,
     "playbackSpeed":10.0,
     "playbackSpeedType":0,
@@ -70,10 +70,10 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1da320b6-43d9-443f-8817-4a97e6135cd4","path":"sprites/sVillainParadoEsquerdasVillainParadoEsquerda/sVillainParadoEsquerdasVillainParadoEsquerda.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1da320b6-43d9-443f-8817-4a97e6135cd4","path":"sprites/sVillainParadoEsquerda/sVillainParadoEsquerda.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"2141b971-53e9-466b-a160-e3cbe948cb82","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2a57b018-3e84-4b9f-9fef-2606b2fc5dcd","path":"sprites/sVillainParadoEsquerdasVillainParadoEsquerda/sVillainParadoEsquerdasVillainParadoEsquerda.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2a57b018-3e84-4b9f-9fef-2606b2fc5dcd","path":"sprites/sVillainParadoEsquerda/sVillainParadoEsquerda.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"233e228a-6cdd-44d4-b409-288b96aaabe7","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
