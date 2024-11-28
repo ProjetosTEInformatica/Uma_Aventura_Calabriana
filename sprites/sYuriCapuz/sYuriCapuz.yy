@@ -47,7 +47,7 @@
   "origin":0,
   "parent":{
     "name":"Yuri",
-    "path":"folders/Sprites/Characters/NPCs/Yuri.yy",
+    "path":"folders/Sprites/Characters/NPCs/Quest/Yuri.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
