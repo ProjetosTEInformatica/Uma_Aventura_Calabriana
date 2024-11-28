@@ -27,7 +27,7 @@
   "origin":0,
   "parent":{
     "name":"Parado",
-    "path":"folders/Sprites/Characters/Boss/SenhorVirgolino/Parado.yy",
+    "path":"folders/Sprites/Characters/Boss/SenhorVirgolino/PrimeiraFase/Parado.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

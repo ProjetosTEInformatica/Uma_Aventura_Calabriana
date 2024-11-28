@@ -27,7 +27,7 @@
   "origin":0,
   "parent":{
     "name":"Movendo",
-    "path":"folders/Sprites/Characters/Boss/SenhorVirgolino/Movendo.yy",
+    "path":"folders/Sprites/Characters/Boss/SenhorVirgolino/PrimeiraFase/Movendo.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
