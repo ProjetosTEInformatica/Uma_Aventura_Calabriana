@@ -1,0 +1,1 @@
+sprite_index = sBotaoSairSelecionado; // Troca para o sprite selecionado

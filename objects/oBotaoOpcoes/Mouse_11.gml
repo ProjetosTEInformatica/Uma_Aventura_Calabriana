@@ -1,0 +1,1 @@
+sprite_index = sBotaoOpcoesNormal; // Troca para o sprite normal

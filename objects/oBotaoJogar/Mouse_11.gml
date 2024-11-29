@@ -1,0 +1,1 @@
+sprite_index = sBotaoJogarNormal; // Retorna para o sprite normal

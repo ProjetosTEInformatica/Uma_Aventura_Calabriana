@@ -1,0 +1,1 @@
+sprite_index = sBotaoOpcoesSelecionado; // Troca para o sprite selecionado

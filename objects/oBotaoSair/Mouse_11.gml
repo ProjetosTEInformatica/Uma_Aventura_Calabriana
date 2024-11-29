@@ -1,0 +1,1 @@
+sprite_index = sBotaoSairNormal; // Troca para o sprite normal

@@ -1,0 +1,1 @@
+room_goto(rTeste); // Substitua "room_game" pela Room inicial do jogo
