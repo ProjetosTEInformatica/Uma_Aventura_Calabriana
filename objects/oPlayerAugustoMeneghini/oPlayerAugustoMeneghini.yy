@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"AugustoMeneguini",
-    "path":"folders/Objetos/Players/AugustoMeneguini.yy",
+    "path":"folders/Objetos/Characters/Players/AugustoMeneguini.yy",
   },
   "parentObjectId":null,
   "persistent":false,

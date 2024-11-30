@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oSaoJoaoCalabria",
+  "%Name":"o_Opcoes",
   "eventList":[],
   "managed":true,
-  "name":"oSaoJoaoCalabria",
+  "name":"o_Opcoes",
   "overriddenProperties":[],
   "parent":{
-    "name":"Characters",
-    "path":"folders/Objetos/Characters.yy",
+    "name":"BoxOptions",
+    "path":"folders/Objetos/UI/BoxOptions.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sSaoJoaoCalabria",
-    "path":"sprites/sSaoJoaoCalabria/sSaoJoaoCalabria.yy",
+    "name":"sCaixaOpcoes",
+    "path":"sprites/sCaixaOpcoes/sCaixaOpcoes.yy",
   },
   "spriteMaskId":null,
   "visible":true,

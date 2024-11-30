@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Static",
-    "path":"folders/Objetos/Buildings/Static.yy",
+    "path":"folders/Objetos/Obstacles/Buildings/Static.yy",
   },
   "parentObjectId":{
     "name":"oColisorPai",

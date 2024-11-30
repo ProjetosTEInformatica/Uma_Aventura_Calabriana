@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oSaoJoaoCalabria",
+  "%Name":"oBotaoVolumeMais",
   "eventList":[],
   "managed":true,
-  "name":"oSaoJoaoCalabria",
+  "name":"oBotaoVolumeMais",
   "overriddenProperties":[],
   "parent":{
-    "name":"Characters",
-    "path":"folders/Objetos/Characters.yy",
+    "name":"Buttons",
+    "path":"folders/Objetos/UI/Buttons.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sSaoJoaoCalabria",
-    "path":"sprites/sSaoJoaoCalabria/sSaoJoaoCalabria.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

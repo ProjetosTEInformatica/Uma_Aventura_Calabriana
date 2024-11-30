@@ -6,8 +6,8 @@
   "name":"oColisorPai",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Obstacles",
+    "path":"folders/Objetos/Obstacles.yy",
   },
   "parentObjectId":null,
   "persistent":false,
